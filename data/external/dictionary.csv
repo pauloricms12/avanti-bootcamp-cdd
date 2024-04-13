@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+species,Nome da Espécie,qualitativa,nominal
+island,Ilha que foi feita a medição,qualitativa,nominal
+bill_length_mm,Comprimento do bico em mm,quantitativa,continua
+bill_depth_mm,Profunidade (altura) do bico em mm,quantitativa,continua
+flipper_length_mm,Comprimento da nadadeira em mm,quantitativa,continua
+body_mass_g,Massa do corpo em gramas,quantitativa,continua
+sex,Sexo dos penguins,qualitativa,nominal
