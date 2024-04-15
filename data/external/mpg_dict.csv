@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,"Milhas por Galão(1 galão = 3.7 L , 1 milha = 1.6 Km)",quantitativa,continua
+cylinders,Cilindros do carro,quantitativa,discreta
+displacement,Capacidade do motor,quantitativa,continua
+horsepower,Potencia em cavalos,quantitativa,continua
+weight,peso,quantitativa,continua
+aceleration,tempo para sair de 0 a 100 km/h em segundos,quantitativa,continua
+model_year,ano do modelo do carro,quantitativa,discreta
+origin,Local onde foi produzido,qualitativa,nominal
+name,nome do modelo do carro,qualitativa,nominal
